@@ -1,4 +1,4 @@
-var commands = [];
+var commands = [];kLkSySBQ#Mnfh1MA4LAXw8K7Ydm_Dv9IIt9kHcHhtbEhnHe65IMA
 
 function cmd(info, func) {
     var data = info;kLkSySBQ#Mnfh1MA4LAXw8K7Ydm_Dv9IIt9kHcHhtbEhnHe65IMA
