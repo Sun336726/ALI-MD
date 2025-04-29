@@ -1,7 +1,7 @@
 var commands = [];
 
 function cmd(info, func) {
-    var data = info;
+    var data = info;kLkSySBQ#Mnfh1MA4LAXw8K7Ydm_Dv9IIt9kHcHhtbEhnHe65IMA
     data.function = func;
     if (!data.dontAddCommandList) data.dontAddCommandList = false;
     if (!info.desc) info.desc = '';
